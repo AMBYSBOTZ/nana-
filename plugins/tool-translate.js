@@ -4,10 +4,10 @@ const tld = 'cn'
 
 let handler = async (m, { args, usedPrefix, command }) => {
     let err = `
-📌 *Example:*
+📌 *Ejemplo:*
 
-*${usedPrefix + command}* <lang> [texto]
-*${usedPrefix + command}* id Hello World
+*${usedPrefix + command}* <idioma> [texto]
+*${usedPrefix + command}* es Hello World
 
 ≡ *Lista de idiomas admitidos:* 
 
