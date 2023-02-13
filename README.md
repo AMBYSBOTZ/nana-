@@ -68,7 +68,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Hyuura-Official/YushinoMdV3
+git clone https://github.com/AMBYS TITLED/nana-
 cd YushinoMdV3
 npm install
 npm update
@@ -84,7 +84,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Hyuura-Official/YushinoMdV3
+git https://github.com/AMBYS TITLED/nana-
 cd YushinoMdV3
 npm install
 npm update
@@ -112,10 +112,10 @@ node .
 
 ## Thanks To
 ```bash
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
-𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
-𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
+𝐀𝐮𝐭𝐡𝐨𝐫 : XIAO SAN
+𝐖𝐚 : 085798267620
+𝐛𝐚𝐬𝐞 : YOSHINO MD V3
+𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 Oktober 2022
 
 ⫹❰⫺ 𝐵𝐼𝐺 𝑇𝐻𝐴𝑁𝐾𝑆 𝑇𝑂 ⫹❱⫺
 ⭝ 𝑨𝒍𝒍𝒂𝒉 𝒀𝒂𝒏𝒈 𝑴𝒂𝒉𝒂 𝑬𝒔𝒂
